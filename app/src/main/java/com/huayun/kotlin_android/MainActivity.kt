@@ -13,6 +13,6 @@ class MainActivity : FragmentActivity() {
     }
 
     private fun initView() {
-        tv_name.text = "哈哈哈"
+//        tv_name.text = "哈哈哈"
     }
 }
